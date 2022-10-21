@@ -1,4 +1,5 @@
-Data: 20 de julho de 1969
-Fato: Primeiro voo tripulado a pousar na lua
-Duração: 8 dias
-Orbitas: 30 dias
+Data: 20 de julho de 1969.
+Fato: Primeiro voo tripulado a pousar na lua.
+Duração: 8 dias.
+Orbitas Lunar: 30.
+Astronautas: Michael Collins, Buzz Aldrin e Neil Armstrong.
