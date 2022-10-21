@@ -2,4 +2,4 @@ Data: 14 novembro de 1969
 Fato: Segundo voo tripulado a pousar na lua
 Duração: 10 dias
 Orbitas: 45
-Astronautas: zezin
+Astronautas: zezin, joaozin
